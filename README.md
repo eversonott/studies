@@ -21,3 +21,24 @@
 - Resumo do que foi estudado á mão.
 
 **Sentimentos:** Hoje foi um dia interessante, eu comecei não animada, mas me propus a ir tentando fazer as coisas que eu queria fazer e sei que fariam bem para mim depois. Então a parte do inglês eu fiz durante a manhã. Após isso , não consegui me focar por muito tempo em nada, então acreditei que nem daria seguimento aos meus estudos de algoritmos hoje. Mas, assistindo/ouvindo a gravação ao vivo do podcast dos [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) sobre 'Como conseguir o primeiro emprego em TI?' eu fiquei animada e fui estudar, caso alguém leia isso algum dia eu prometo que irei ouvir a parte que perdi depois. Então eu dei continuidade a primeira parte introdutória do livro de algoritmos e comecei meu resumo feito á mão. Eu tinha parado de fazer resumos escritos á mão, mas é realmente uma forma que me ajuda muito, então vale a pena para mim mesmo que eu gaste um pouco mais de tempo nisso.
+
+## Dia 3: Fevereiro 22, Segunda-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Ingles*  
+- Duolingo
+- Leituras em voz alta
+- Inglês Instrumental (Univerdade)
+    - Reconhecimento de Gêneros Textuais
+
+*Tecnologia* 
+- Algoritmos. Manzano, José Augusto N. G.
+    - Unidades de Medidas Computacionais
+    - Tabela ASCII
+    - Dados e Informação
+- Resumo do que foi estudado á mão.
+
+- Hello Mundo 🐼 feito utilizando `window.alert` que pode ser encontrado na pasta Javascript.
+
+**Sentimentos:** Hoje eu considero um dia bom, fiz todos os estudos que que pretendia fazer, nos dias que faço live sempre são dias que minha cabeça fica mais cansada então eu considero uma super vitória para mim.
