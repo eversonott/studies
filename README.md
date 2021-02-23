@@ -39,6 +39,7 @@
     - Dados e Informação
 - Resumo do que foi estudado á mão.
 
-- Hello Mundo 🐼 feito utilizando `window.alert` que pode ser encontrado na pasta Javascript.
+- Javascript
+    - Hello Mundo 🐼 feito utilizando `window.alert` que pode ser encontrado na pasta Javascript.
 
 **Sentimentos:** Hoje eu considero um dia bom, fiz todos os estudos que que pretendia fazer, nos dias que faço live sempre são dias que minha cabeça fica mais cansada então eu considero uma super vitória para mim.
