@@ -43,3 +43,39 @@
     - Hello Mundo 🐼 feito utilizando `window.alert` que pode ser encontrado na pasta Javascript.
 
 **Sentimentos:** Hoje eu considero um dia bom, fiz todos os estudos que que pretendia fazer, nos dias que faço live sempre são dias que minha cabeça fica mais cansada então eu considero uma super vitória para mim.
+
+## Dia 4: Fevereiro 23, Terça-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Ingles*  
+- Duolingo
+
+**Sentimentos:**  
+Não tive ânimo para falar sobre.
+
+## Dia 5: Fevereiro 24, Quarta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Banco de dados  
+    - Aula da faculdade sobre introdução á banco de dados  
+
+**Sentimentos:**  
+Não tive ânimo para falar sobre.
+
+## Dia 6: Fevereiro 25, Quinta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Ingles*  
+- Duolingo
+
+*Tecnologia*  
+- Banco de dados  
+    - Comecei o resumo do que foi estudado na aula anterior  
+    - Respondi um questionário com perguntas da aula introdutória
+
+**Sentimentos:**  
+Hoje é um dia de muita ansiedade para mim, mas estou feliz por estar conseguindo lidar bem com isso e ter feito minhas coisas.
