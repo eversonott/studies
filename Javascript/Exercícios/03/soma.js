@@ -1,0 +1,1 @@
+window.alert(`A soma de 2 + 2 é ${2 + 2}`);
