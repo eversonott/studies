@@ -171,3 +171,173 @@ Será que eu deveria continuar anotando meus sentimentos visto que eu sempre esq
         - Formulários
         - Efeitos com CSS
         - Exemplos
+
+## Dia 14: Março 16, Terça-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Ingles*  
+- Duolingo
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Projeto Strata
+- Estudos sobre relacionamentos para a disciplina de Banco de Dados
+
+*Ciências Exatas*  
+- Estatística 
+    - Aula sobre Gráficos e Medidas-Resumo
+    - Resumo feito a mão
+
+## Dia 15: Março 17, Quarta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Seletores Avançados
+- Algoritmos. Manzano, José Augusto N. G.
+    - Paradigmas de Computação
+    - Grafia Computacional
+
+*Ingles*  
+- Duolingo
+
+## Dia 16: Março 18, Quinta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Responsividade
+        - Incorporar conteúdo de audio, video, iframes e figure
+        - Imagens Responsivas
+        - HSL e Gradientes
+- Banco de Dados (Universidade)
+    - Finalizando conceitos básicos sobre MER
+    - Modelo Relacional
+
+*Ingles*  
+- Inglês Instrumental (Universidade)
+    - Grupos Nominais
+    - Referência Pronominal
+
+## Dia 17: Março 19, Sexta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Flexbox
+        - Grid Layout
+
+## Dia 18: Março 22, Segunda-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Semântica e CSS
+        - Animações
+- Algoritmos. Manzano, José Augusto N. G.
+    - Algoritmos e Lógica Computacional
+
+## Dia 19: Março 23, Terça-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Lógica de Programação
+            - Variáveis e Operadores
+            - Laços de Repetição
+- Banco de Dados (Universidade)
+    - Vídeo aula sobre Modelo Relacional
+    - Resolução de um questionário sobre o assunto
+
+## Dia 20: Março 24, Quarta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Lógica de Programação
+            - Funções
+*Ciências Exatas*  
+- Estatística 
+    - Resolvendo lista de exercícios sobre medidas-resumo
+
+## Dia 21: Março 25, Quinta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Lógica de Programação
+            - Tratamento de exceções
+            - Conjunto de dados
+- Algoritmos. Manzano, José Augusto N. G.
+    - Cozinha x Computador 
+    - Lógica de programação de computadores
+        - Uso de lógica de programação de computadores
+
+*Ciências Exatas*  
+- Estatística 
+    - Probabilidade e Probabilidade Condicional
+
+## Dia 22: Março 26, Sexta-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Javascript
+            - Funções
+            - DOM
+
+## Dia 23: Março 29, Segunda-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Javascript
+            - Objetos
+            - Eventos
+
+*Ciências Exatas*  
+- Estatística 
+    - Lista de exercícios sobre Probabilidade e Probabilidade Condicional
+
+## Dia 24: Março 30, Terça-feira, 2021
+
+**Resumo dos estudos diários:**  
+
+*Tecnologia*  
+- Treinamento do Estágio de Dev Web
+    - Web Design 
+        - Javascript
+            - Mais sobre DOM
+            - Strings
+            - Number
+            - Math
+- Origamid Javascript ES6
+    - Revisão
+        - Variáveis
+        - Tipos de Dados
+        - Operadores Aritméticos
+
+*Inglês*  
+- Duolingo
+- News In Levels
+- Videos no youtube em inglês
